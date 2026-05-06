@@ -1,0 +1,2 @@
+-- Optional DB init hooks for local development.
+-- Keep file non-destructive. Prisma migrations own schema lifecycle.
